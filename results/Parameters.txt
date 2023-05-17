@@ -1,0 +1,2 @@
+The folder name corresponds to the used config id. The sub-folder codes the other used parameters using the following syntax:
+trainingEpisodes_testEpisodes_NumRuns
